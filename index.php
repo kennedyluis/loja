@@ -5,5 +5,5 @@ echo "<script>window.location = 'view/sobrealoja.php';</script>";
 echo "<script>window.location = 'view/foto1.php';</script>";
 echo "<script>window.location = 'view/foto2.php';</script>";
 echo "<script>window.location = 'view/foto3.php';</script>";
-
+echo "<script>window.location = 'view/livro_visitantes.php';</script>";
 ?>
